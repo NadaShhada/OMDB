@@ -1,6 +1,6 @@
 # omdb
 
-A new Flutter project that take information from OMDB api that contain movies  information and rates of it:
+A  Flutter project that takes information from OMDB API that contains movie information and rates of it  you can search for films by name and year of production:
 
 
 ![‪localhost_51803_#_ - Google Chrome‬ 12_14_2024 11_50_54 م](https://github.com/user-attachments/assets/5d272698-e965-4352-9e39-f492de0d0b87)
